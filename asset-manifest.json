@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Geo-Glance/static/css/main.a2763572.css",
+    "main.js": "/Geo-Glance/static/js/main.572dad9a.js",
+    "index.html": "/Geo-Glance/index.html",
+    "main.a2763572.css.map": "/Geo-Glance/static/css/main.a2763572.css.map",
+    "main.572dad9a.js.map": "/Geo-Glance/static/js/main.572dad9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2763572.css",
+    "static/js/main.572dad9a.js"
+  ]
+}
