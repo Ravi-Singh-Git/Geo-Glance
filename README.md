@@ -180,8 +180,8 @@ I want to refine the search and filter functionailties on main page further.
 
 ## ⭐ Author
 
-- GitHub - [@anushkachauhxn](https://github.com/Ravi-Singh-Git)
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/ravi-singh-942b20298/)
+- GitHub - [@Ravi-Singh-Git](https://github.com/Ravi-Singh-Git)
+- LinkedIn - [@ravi-singh-prof](https://www.linkedin.com/in/ravi-singh-942b20298/)
 
 
 
