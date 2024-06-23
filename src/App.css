@@ -1,0 +1,17 @@
+.app {
+  --text-color: var(--light-mode-text);
+  --bg-color: var(--light-mode-bg);
+  --elements-color: var(--light-mode-elements);
+  --input-color: var(--light-mode-input);
+
+  min-height: 100vh;
+  width: 100%;
+  background: var(--bg-color);
+}
+
+.darkmode.app {
+  --text-color: var(--dark-mode-text);
+  --bg-color: var(--dark-mode-bg);
+  --elements-color: var(--dark-mode-elements);
+  --input-color: var(--dark-mode-text);
+}

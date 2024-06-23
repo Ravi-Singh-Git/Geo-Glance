@@ -1,0 +1,14 @@
+.countryList {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 75px;
+  place-items: center;
+}
+
+@media (max-width: 376px) {
+  .countryList {
+    grid-template-columns: auto;
+    grid-gap: 40px;
+  }
+}
