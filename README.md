@@ -191,3 +191,54 @@ I want to refine the search and filter functionailties on main page further.
 
 - LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
 - Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To update changes in your GitHub Pages deployment, follow these steps:
+
+Step 1: Make Changes to Your Project
+Make the necessary changes to your React project locally.
+
+Step 2: Commit and Push Changes to GitHub
+Stage your changes:
+
+sh
+Copy code
+git add .
+Commit your changes:
+
+sh
+Copy code
+git commit -m "Describe your changes"
+Push your changes to the main branch:
+
+sh
+Copy code
+git push origin main
+Step 3: Deploy Changes to GitHub Pages
+After pushing your changes to the repository, you need to deploy the updated project to GitHub Pages.
+
+Build your project:
+
+sh
+Copy code
+npm run build
+Deploy to GitHub Pages:
+
+sh
+Copy code
+npm run deploy
