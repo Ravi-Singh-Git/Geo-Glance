@@ -189,7 +189,7 @@ I want to refine the search and filter functionailties on main page further.
 - GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
 - Behance - [@anushka_creates](https://www.behance.net/anushka_creates)
 
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
+- LinkedIn - [@anushka-chauhan]([(https://www.linkedin.com/in/ravi-singh-prof/)])
 - Twitter - [@anushka_creates](https://twitter.com/anushka_creates)
 
 
